@@ -9,7 +9,7 @@ void loop() {
   temp=temp*0.480845; 
   Serial.print("Temperature");
   Serial.print(temp);
-  Serial.print("%c");
+  Serial.print("%C");
   Serial.println();
   delay(1000);
 
