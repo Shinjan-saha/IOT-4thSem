@@ -4,7 +4,7 @@
 
 <br>
 
-# Working of the Diagram
+# Working of the Project
 
 <img src='./img/working.png'>
 
