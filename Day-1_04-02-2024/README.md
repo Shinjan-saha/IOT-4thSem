@@ -6,12 +6,12 @@
 
 # Working of the Project
 
-## Software
+### Software
 
 <img src='./img/working.png'>
 
 
-## Hardware
+### Hardware
 <img src='./img/hardware.jpg'>
 
 
@@ -28,6 +28,11 @@
 
 
 # Setup to Run the Project
+
+# Libary Required 
+<ul>
+  <li>Adafruit</li>
+</ul>
 
 # For Proteus/Software
 
