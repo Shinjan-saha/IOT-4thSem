@@ -31,7 +31,9 @@
 
 # Libary Required 
 <ul>
-  <li>Adafruit</li>
+  <li>Adafruit_GFX</li>
+  <li>Adafruit_SSD1306</li>
+  <li>Wire</li>
 </ul>
 
 # For Proteus/Software
