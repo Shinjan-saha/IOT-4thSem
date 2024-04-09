@@ -22,9 +22,10 @@
 
 # Code
 
-[ Check the Arduino  code Here ](./Temp/Temp.ino)
+[ Check the Arduino  code Here ](./Proteus/Temp/Temp.ino)
 <br>
-[Check the Hardware  code of Arduino from here](lm35&oled.ino)
+
+[Check the Hardware  code of Arduino from here](./Hardware/lm35&oled.ino)
 
 
 # Setup to Run the Project
@@ -41,13 +42,13 @@
 <ul>
 <li><b>Clone the Repo or Download the ZIP </li>
 
-  [ 2.Open the Proteus file  click here](Temp-Setup.pdsprj) 
+  [ 2.Open the Proteus file  click here](./Proteus/Temp-Setup.pdsprj) 
 
 
 
 <li> Now Right Click on the Arduino Board in Proteus  </li>
 
-[ 4.Open the Hex file  click here](./Temp/build/arduino.avr.uno/Temp.ino.hex) 
+[ 4.Open the Hex file  click here](./Proteus/Temp/build/arduino.avr.uno/Temp.ino.hex) 
 
 <li>Run the Simultation</li>
 </ul>
